@@ -58,7 +58,7 @@ while True:
     elif user_input == 'end':
         print('You got ', correct_g, ' questions right!')
         print('You got ', incorrect_g, ' questions wrong.')
-        print('Thank you for playing! By Isaac Manaena, play again soon')
+        print('Thank you for playing! By Isaac Manaena, play again soon!')
         break
 
     else:
